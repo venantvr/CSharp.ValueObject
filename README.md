@@ -9,4 +9,4 @@ Implémentation du pattern Value Object (DDD) en C# : objets immuables comparés
 
 ## Stack
 
-C# / .NET Framework
+[![Stack](https://skillicons.dev/icons?i=dotnet,cs&theme=dark)](https://skillicons.dev)
